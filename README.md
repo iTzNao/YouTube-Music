@@ -16,7 +16,7 @@ The latest version of the project can be downloaded [here](https://github.com/iT
     
 2.  **Playlists:** Create personalized playlists tailored to your mood, activity, or occasion. Effortlessly curate and manage your music collections for every situation life throws at you.
     
-3.  **Accounts:** Seamlessly connect your existing YouTube account to access your favorite playlists, liked videos, and subscriptions. Stay in control of your music experience with a personalized account.
+3.  **Accounts:** Seamlessly connect your existing YouTube account to access your favourite playlists, liked videos, and subscriptions. Stay in control of your music experience with a personalized account.
     
 4.  **Discord Status Integration:** Let your friends know what you're jamming to. Integrate your YouTube Music with Discord to display your current track, showcasing your musical taste in real-time.
     
