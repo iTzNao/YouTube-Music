@@ -7,7 +7,7 @@ YouTube Music* is your all-in-one music companion, designed to revolutionize the
 
 *unofficial and not affiliated with YouTube in any way
 
-![example](example.png)
+![example](example.gif)
 
 ### How to download:
 The latest version of the project can be downloaded [here](https://github.com/iTzNao/YouTube-Music/releases/latest).
