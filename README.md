@@ -1,8 +1,6 @@
 # YouTube Music
 ![badge](https://badgen.net/github/release/iTzNao/YouTube-Music)
 
-⭐ Star me on GitHub - it motivates me a lot!
-
 YouTube Music* is your all-in-one music companion, designed to revolutionize the way you experience and interact with music. With a seamless blend of cutting-edge features and intuitive design, this app offers a comprehensive music playback experience like no other. I made this because YouTube is too lazy to make their own app, consider this the official unofficial app for YouTube Music.
 
 *unofficial and not affiliated with YouTube in any way
